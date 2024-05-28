@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+
+#myBox{
+    background-color: #A79277;
+    width: 200px;
+    height: 200px;
+    font-size: 7rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+}
